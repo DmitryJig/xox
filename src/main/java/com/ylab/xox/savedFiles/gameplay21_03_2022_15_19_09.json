@@ -1,0 +1,57 @@
+{
+  "Gameplay": {
+    "Player": [
+      {
+        "id": 1,
+        "name": "dima",
+        "symbol": "X"
+      },
+      {
+        "id": 2,
+        "name": "vasya",
+        "symbol": "0"
+      }
+    ],
+    "Game": {
+      "Step": [
+        {
+          "num": 1,
+          "playerId": 1,
+          "text": "11"
+        },
+        {
+          "num": 2,
+          "playerId": 2,
+          "text": "22"
+        },
+        {
+          "num": 3,
+          "playerId": 1,
+          "text": "33"
+        },
+        {
+          "num": 4,
+          "playerId": 2,
+          "text": "13"
+        },
+        {
+          "num": 5,
+          "playerId": 1,
+          "text": "32"
+        },
+        {
+          "num": 6,
+          "playerId": 2,
+          "text": "31"
+        }
+      ]
+    },
+    "GameResult": {
+      "Player": {
+        "id": 2,
+        "name": "vasya",
+        "symbol": "0"
+      }
+    }
+  }
+}
